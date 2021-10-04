@@ -1,9 +1,21 @@
 {
   "summary": {
-    "title": "brightspace"
+    "title": "brightspace",
+    "owner": "Daan"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "Security vak"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Laurens"
   }
 }
